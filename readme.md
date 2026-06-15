@@ -1,12 +1,12 @@
 # Sistema de Gestión de Restaurante
 
-## 👤 Información del Estudiante
+## Información del Estudiante
 * **Nombre Completo:** Jorge Adrián Santamaría Muñoz
 * **Carrera:** Tecnologías de la Información 
 
 ---
 
-## 📝 Descripción del Sistema
+## Descripción del Sistema
 Este proyecto consiste en un Sistema Básico de Gestión de Restaurante desarrollado bajo el paradigma de **Programación Orientada a Objetos** en Python. 
 El sistema permite:
 1. Permite definir **Productos** platos o bebidas con sus respectivos precios.
@@ -17,7 +17,7 @@ El objetivo principal de este proyecto es  demostrar la correcta aplicación de 
 
 ---
 
-## 📁 Estructura del Proyecto
+## Estructura del Proyecto
 
 El proyecto respeta estrictamente la siguiente estructura modular:
 

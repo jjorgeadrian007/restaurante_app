@@ -23,8 +23,8 @@ cliente2 = Cliente("Maria")
 mi_restaurante.registrar_cliente(cliente1)
 mi_restaurante.registrar_cliente(cliente2)
 
-print("--- SIMULACIÓN DE PEDIDOS ---")
-# 4. Los clientes realizan sus pedidos
+print("--- PEDIDOS ---")
+# 4. Realizar su pedidos
 cliente1.ordenar_producto(plato1)
 cliente1.ordenar_producto(bebida1)
 
